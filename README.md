@@ -3,6 +3,31 @@ ePortfolio for SNHU CS-499 Capstone
 
 Code Review Link https://github.com/smilinjake/smilinjake.github.io/releases/tag/Code_Review_Video
 
+## Table of Contents
+
+- [Code Review Video](https://github.com/smilinjake/smilinjake.github.io/releases/tag/Code_Review_Video)
+- [Artifact 1 Narrative](Narratives/Artifact_1_Narrative.pdf)
+- [Artifact 2 Narrative](Narratives/Artifact_2_Narrative.pdf)
+- [Artifact 3 Narrative](Narratives/Artifact_3_Narrative.pdf)
+- [Artifact 1 original artifact](Original_Artifacts/Artifact_1/CS%20300%20Binary%20Search%20Tree%20Assignment/BinarySearchTree.cpp)
+- [Artifact 1 improved artifact](Improved_Artifacts/Improved_Artifact_1/CS_499_Milestone_2_Assignment/Binary_Search_Tree.py)
+- [Artifact 2 original artifact](Original_Artifacts/Artifact_2/Binary_Search_Tree.py)
+- [Artifact 2 improved artifact](Improved_Artifacts/Improved_Artifact_2/Red_Black_Tree.py)
+- [Artifact 3 original artifact](Original_Artifacts/Artifact_3/CRUD_Python_Module.py)
+- [Artifact 3 improved artifact](Improved_Artifacts/Improved_Artifact_3/)
+
+## Professional Self-Assessment
+
+Completing the SNHU Computer Science program and developing this ePortfolio has helped me showcase strengths in technical problem solving, software design, and effective communication. Through coursework and projects, I have built confidence collaborating in team environments, speaking clearly with stakeholders, and applying data structures and algorithms to real problems.
+
+Recently at work as a full stack python developer, I communicated with the C-Suite to develop a new workflow to show new information on our customers within the Odoo 12 environment using the Heron Api Enricher endpoints. I would not have been able to efficietly create this new workflow without the SNHU Computer Science Program preparing me to speak to corporate executives without using technical jargon. This enabled me to develop and actually contribute in a large way to the product repo at the company that I work for.
+
+In team settings, I learned to coordinate work, share responsibilities, and keep projects moving forward while respecting deadlines. Communicating with stakeholders became a regular part of class projects and capstone planning, where I translated technical ideas into practical solutions and explained trade-offs clearly.
+
+The SNHU curriculum reinforced my understanding of data structures and algorithms, from binary search trees and self-balancing trees to efficient search and sort techniques. Software engineering and database work appeared across multiple courses, helping me design maintainable systems and integrate backend APIs with data storage. I also developed a stronger awareness of security practices, especially around protecting access to application data and using authentication in web-based projects.
+
+This portfolio brings those strengths together through three artifacts. Each artifact reflects different areas of my skill set: algorithmic design and translation between languages, advanced tree structures and performance improvements, and full stack development with backend APIs and frontend integration. Together, they provide a complete view of my technical abilities and prepare me for professional roles in computer science.
+
 # Artifact Portfolio Overview
 
 ## Artifact 1
