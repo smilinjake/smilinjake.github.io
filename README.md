@@ -1,5 +1,4 @@
-smilinjake.github.io
-ePortfolio for SNHU CS-499 Capstone
+# ePortfolio for SNHU CS-499 Capstone
 
 [View My Github Profile](https://github.com/smilinjake)
 [Code Review Link](https://github.com/smilinjake/smilinjake.github.io/releases/tag/Code_Review_Video)
