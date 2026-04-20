@@ -1,7 +1,8 @@
 smilinjake.github.io
 ePortfolio for SNHU CS-499 Capstone
 
-Code Review Link https://github.com/smilinjake/smilinjake.github.io/releases/tag/Code_Review_Video
+[View My Github Profile](https://github.com/smilinjake)
+[Code Review Link](https://github.com/smilinjake/smilinjake.github.io/releases/tag/Code_Review_Video)
 
 ## Table of Contents
 
@@ -20,7 +21,7 @@ Code Review Link https://github.com/smilinjake/smilinjake.github.io/releases/tag
 
 Completing the SNHU Computer Science program and developing this ePortfolio has helped me showcase strengths in technical problem solving, software design, and effective communication. Through coursework and projects, I have built confidence collaborating in team environments, speaking clearly with stakeholders, and applying data structures and algorithms to real problems.
 
-Recently at work as a full stack python developer, I communicated with the C-Suite to develop a new workflow to show new information on our customers within the Odoo 12 environment using the Heron Api Enricher endpoints. I would not have been able to efficietly create this new workflow without the SNHU Computer Science Program preparing me to speak to corporate executives without using technical jargon. This enabled me to develop and actually contribute in a large way to the product repo at the company that I work for.
+Recently at work as a full stack python developer, I communicated with the C-Suite to develop a new workflow to show new information on our customers within the Odoo 12 environment using the Heron Api Enricher endpoints. I would not have been able to efficiently create this new workflow without the SNHU Computer Science Program preparing me to speak to corporate executives without using technical jargon. This enabled me to develop and actually contribute in a large way to the product repo at the company that I work for.
 
 In team settings, I learned to coordinate work, share responsibilities, and keep projects moving forward while respecting deadlines. Communicating with stakeholders became a regular part of class projects and capstone planning, where I translated technical ideas into practical solutions and explained trade-offs clearly.
 
